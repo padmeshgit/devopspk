@@ -1,2 +1,4 @@
 print("Padmesh")
 print("Singh")
+print("Kumar")
+print("PataNahi")
